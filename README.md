@@ -11,4 +11,5 @@ Chọn directory - > Chọn đúng folder vừa clone project về. -> Finish
 
 3) Sau khi đợi IDE tự động cài dependencies, click chuột phải vào project. Chọn run as -> Spring Boot App. Server sẽ khởi chạy trên cổng 8080
 
- ![image](https://user-images.githubusercontent.com/75687993/221232290-a09c009b-e865-4600-9307-a36b4f39bf61.png)
+![image](https://user-images.githubusercontent.com/75687993/221233731-b4110f3f-4d1f-4e08-8ee3-60e65ec36649.png)
+
